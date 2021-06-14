@@ -2,10 +2,10 @@
 
 ## What is Medium?
 
-<a href="https://medium.com/">Medium</a> is a blogging platform where writers and readers share their ideas. With a strong following in the tech community, it is a place where people can come to learn from professionals and industry experts. I began writing on Medium very recently, inspired to write about data-science and machine learning. For more information, check out my writing <a href="https://medium.com/@harrisonjansma">here.</a>
+<a href="https://medium.com/">Medium</a> is a blogging platform where writers and readers share their ideas. With a strong following in the tech community, it is a place where people can come to learn from professionals and industry experts. I began writing on Medium very recently, inspired to write about data-science and machine learning. For more information, check out my writing <a href="https://medium.com/@mohammedouahman">here.</a>
 
 
-<a href="https://medium.com/@harrisonjansma">
+<a href="https://medium.com/@mohammedouahman">
 <img align="center" src="img/mediumhome.JPG" height=300></a>
 
 # This Project
